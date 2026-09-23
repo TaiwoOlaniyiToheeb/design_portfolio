@@ -34,7 +34,7 @@ export const projects: Project[] = [
     deliverables: ["Event Flyer", "Social Media Graphics"],
     coverImage: "/projects/sample-one/cover.svg",
     images: [
-      "/projects/sample-one/cover.svg",
+      "/projects/sample-one/anti_copy.jpg",
       "/projects/sample-one/design-1.svg",
       "/projects/sample-one/design-2.svg",
     ],
