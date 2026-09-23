@@ -3,8 +3,8 @@
 export const siteConfig = {
   name: "Taiwo Olaniyi Toheeb",
   shortName: "TOHEEB",
-  email: "hello@example.com", // TODO: replace with real email
-  whatsapp: "https://wa.me/2340000000000", // TODO: replace with real WhatsApp link
-  instagram: "https://instagram.com/", // TODO: replace with real handle
-  linkedin: "https://linkedin.com/", // TODO: replace with real profile
+  email: "otoheebtaiwo@gmail.com", 
+  whatsapp: "https://wa.me/2348165746891",
+  instagram: "https://instagram.com/",
+  linkedin: "https://www.linkedin.com/in/toheebolaniyitaiwo/",
 };
