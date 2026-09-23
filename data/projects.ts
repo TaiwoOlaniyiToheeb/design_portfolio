@@ -32,14 +32,14 @@ export const projects: Project[] = [
     ],
     tools: ["Canva", "Adobe Photoshop"],
     deliverables: ["Event Flyer", "Social Media Graphics"],
-    coverImage: "/projects/sample-one/cover.svg",
+    coverImage: "/projects/sample-one/anti_copy.jpg",
     images: [
       "/projects/sample-one/anti_copy.jpg",
       "/projects/sample-one/design-1.svg",
       "/projects/sample-one/design-2.svg",
     ],
     featured: true,
-    isPlaceholder: false,
+    
   },
   {
     slug: "lumen-coffee-branding",
