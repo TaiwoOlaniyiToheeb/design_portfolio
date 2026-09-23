@@ -39,7 +39,7 @@ export const projects: Project[] = [
       "/projects/sample-one/design-2.svg",
     ],
     featured: true,
-    isPlaceholder: true,
+    isPlaceholder: false,
   },
   {
     slug: "lumen-coffee-branding",
